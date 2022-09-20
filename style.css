@@ -1,9 +1,12 @@
-h1{color: rgb(149, 122, 122);}
-.first{color: blue;}
-.paragraph{
-
-    margin: 20%;
-    padding: 10%;
-    box-shadow: 5px;
-    stroke-width: 5px;
+.section-1{
+    float: left;
+}
+.first-1{
+    float: left;
+}
+.name-1{
+    color: rgba(87, 155, 215, 0.797);
+}
+body{
+    background-image:image(images/logo.png);
 }
